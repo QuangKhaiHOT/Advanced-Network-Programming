@@ -46,4 +46,3 @@ Hệ thống áp dụng chính sách Zero Trust cho các tác vụ nhạy cảm:
 4.  **Execution:** Server xử lý yêu cầu quét subdomain và trả kết quả đã mã hóa về cho Client.
 
 ---
-*Phát triển bởi [Tên của bạn hoặc Team]*
